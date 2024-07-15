@@ -4,7 +4,8 @@
 
 Skills: HTML/CSS/BOOTSTRAP/JS/OOP/JQUARY/ANGULAR/PHP/MY SQL/LARAVEL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 iam graduated from HIMIT 2024
+- bachelor's degree of computer science 
 
 
 
